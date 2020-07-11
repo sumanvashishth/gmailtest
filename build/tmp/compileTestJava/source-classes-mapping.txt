@@ -1,0 +1,2 @@
+com/crossover/e2e/GMailTest.java
+ com.crossover.e2e.GMailTest
